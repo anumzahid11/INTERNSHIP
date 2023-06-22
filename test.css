@@ -1,0 +1,17 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+  
+input{
+  margin-right: 10px;
+}
+  
+ul{
+  margin-bottom: 5px;
+}
+  
+.delete-btn {
+  color: red;
+  cursor: pointer;
+  margin-left: 5px;
+}
